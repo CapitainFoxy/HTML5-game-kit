@@ -1,4 +1,4 @@
-# HTML5 Game Kit
+# HTML5 Game Kit by CapitainFoxy
 The HTML5 Game Kit is an easy-to-use basic game development framework for creating HTML5-based games. The framework aims to simplify and accelerate the game development process, particularly for beginner and intermediate developers.
 
 ## Features
